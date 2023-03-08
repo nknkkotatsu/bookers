@@ -17,5 +17,73 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+   font-family: 'Noto Sans JP', sans-serif;
 }
 
+h1 {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 20px  0 0 20px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 10px;
+  
+}
+form {
+  margin-left: 20px;
+}
+
+table {
+  font-size: 15px;
+  margin-left: 20px;
+  border-collapse: separate;
+  border-spacing: 10px;
+}
+
+
+submit {
+  align-items:flex-end;
+}
+
+h6 {
+  font-weight: normal;
+  font-size: 13px;
+  margin: 20px 50px;
+  color: green;
+}
+h3 {
+  font-size: 13px;
+  margin: 20px 50px;
+}
+p {
+  font-size: 15px;
+  margin:20px;
+}
+
+h4 {
+  font-size:13px;
+  margin-top: 10px;
+}
+
+h5 {
+  margin-left: 20px;
+}
+ul {
+  margin-left: 50px;
+}
+
+h7 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+span bold {
+  font-weight: bold;
+}
+
+body {
+  margin:20px;
+}
